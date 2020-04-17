@@ -15,12 +15,7 @@ Sample website with plenty of files for demos## Deployment
 this is new data
 
 
+##Copyright
 
-
-
-
-thibsfhjvhbfghfbfgfg
-bfdvhfdn
-hfgvfkj
-dfghf
+This is 2020 training
 
