@@ -14,6 +14,7 @@ Ruchi Badola
 MEenakshi Badola
 Daisy
 # TECHNOLOGY COLOPHON
-
+ Unix
+python
     HTML5, CSS3
     jQuery, Modernizr
