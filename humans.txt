@@ -10,7 +10,9 @@
     <name>
      Pratibha Badola
 Ruchi Badola
-
+ Ankit Badola
+MEenakshi Badola
+Daisy
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
