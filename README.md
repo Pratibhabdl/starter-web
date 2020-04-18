@@ -9,6 +9,8 @@ Adding more change to it.
 
 ## Examples
  this is for simple rebase example. Hope this time it works
+this is for stash example
+
 ## New content 
 
 
